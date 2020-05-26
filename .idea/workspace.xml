@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7005bbb9-cdfd-42e5-890d-09c6ef350556" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1SsvEoCXYtOJWQuMqpnbMEL71f6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\R2Williams\IdeaProjects\selenium_java\resources" />
+      <recent name="C:\Users\R2Williams\IdeaProjects\selenium_java\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.FramesTest">
+    <configuration name="AlertsTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="alerts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="alerts" />
+      <option name="MAIN_CLASS_NAME" value="alerts.AlertsTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AlertsTests.testAcceptAlert" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="alerts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="alerts" />
+      <option name="MAIN_CLASS_NAME" value="alerts.AlertsTests" />
+      <option name="METHOD_NAME" value="testAcceptAlert" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FramesTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Frames.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Frames" />
+      <option name="MAIN_CLASS_NAME" value="Frames.FramesTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FramesTest.testWysiwyg" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Frames.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Frames" />
+      <option name="MAIN_CLASS_NAME" value="Frames.FramesTest" />
+      <option name="METHOD_NAME" value="testWysiwyg" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HoverTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hover.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hover" />
+      <option name="MAIN_CLASS_NAME" value="hover.HoverTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.FramesTest" />
+        <item itemvalue="TestNG.HoverTest" />
+        <item itemvalue="TestNG.AlertsTests" />
+        <item itemvalue="TestNG.FramesTest.testWysiwyg" />
+        <item itemvalue="TestNG.AlertsTests.testAcceptAlert" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7005bbb9-cdfd-42e5-890d-09c6ef350556" name="Default Changelist" comment="" />
+      <created>1572365008980</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572365008980</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2435" y="135" key="#com.intellij.ide.util.MemberChooser" timestamp="1582820845618">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2435" y="135" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1032/1920.0.1920.1080@1920.0.1920.1080" timestamp="1582820845618" />
+    <state x="538" y="422" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1583238682995">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="538" y="422" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1583238682995" />
+    <state x="686" y="209" key="FileChooserDialogImpl" timestamp="1585814188007">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="686" y="209" key="FileChooserDialogImpl/0.0.1920.1032/1920.0.1680.1050@0.0.1920.1032" timestamp="1585814188007" />
+    <state width="1864" height="213" key="GridCell.Tab.0.bottom" timestamp="1585924684248">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="213" key="GridCell.Tab.0.bottom/0.0.1920.1032/1920.0.1680.1050@0.0.1920.1032" timestamp="1585924684248" />
+    <state width="1864" height="213" key="GridCell.Tab.0.bottom/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1584112373472" />
+    <state width="1377" height="198" key="GridCell.Tab.0.bottom/0.0.1920.1032/1920.0.1920.1080@1920.0.1920.1080" timestamp="1582822112068" />
+    <state width="1864" height="213" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1583238798599" />
+    <state width="1864" height="213" key="GridCell.Tab.0.center" timestamp="1585924684248">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="213" key="GridCell.Tab.0.center/0.0.1920.1032/1920.0.1680.1050@0.0.1920.1032" timestamp="1585924684248" />
+    <state width="1864" height="213" key="GridCell.Tab.0.center/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1584112373471" />
+    <state width="1377" height="198" key="GridCell.Tab.0.center/0.0.1920.1032/1920.0.1920.1080@1920.0.1920.1080" timestamp="1582822112068" />
+    <state width="1864" height="213" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1583238798599" />
+    <state width="1864" height="213" key="GridCell.Tab.0.left" timestamp="1585924684248">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="213" key="GridCell.Tab.0.left/0.0.1920.1032/1920.0.1680.1050@0.0.1920.1032" timestamp="1585924684248" />
+    <state width="1864" height="213" key="GridCell.Tab.0.left/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1584112373471" />
+    <state width="1377" height="198" key="GridCell.Tab.0.left/0.0.1920.1032/1920.0.1920.1080@1920.0.1920.1080" timestamp="1582822112068" />
+    <state width="1864" height="213" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1583238798596" />
+    <state width="1864" height="213" key="GridCell.Tab.0.right" timestamp="1585924684248">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="213" key="GridCell.Tab.0.right/0.0.1920.1032/1920.0.1680.1050@0.0.1920.1032" timestamp="1585924684248" />
+    <state width="1864" height="213" key="GridCell.Tab.0.right/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1584112373472" />
+    <state width="1377" height="198" key="GridCell.Tab.0.right/0.0.1920.1032/1920.0.1920.1080@1920.0.1920.1080" timestamp="1582822112068" />
+    <state width="1864" height="213" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1583238798599" />
+    <state width="1204" height="298" key="GridCell.Tab.1.bottom" timestamp="1582731621342">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1204" height="298" key="GridCell.Tab.1.bottom/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1582729905151" />
+    <state width="1204" height="298" key="GridCell.Tab.1.bottom/0.0.1920.1032/1920.0.1920.1080@1920.0.1920.1080" timestamp="1582731621342" />
+    <state width="1204" height="298" key="GridCell.Tab.1.center" timestamp="1582731621342">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1204" height="298" key="GridCell.Tab.1.center/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1582729905151" />
+    <state width="1204" height="298" key="GridCell.Tab.1.center/0.0.1920.1032/1920.0.1920.1080@1920.0.1920.1080" timestamp="1582731621342" />
+    <state width="1204" height="298" key="GridCell.Tab.1.left" timestamp="1582731621342">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1204" height="298" key="GridCell.Tab.1.left/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1582729905151" />
+    <state width="1204" height="298" key="GridCell.Tab.1.left/0.0.1920.1032/1920.0.1920.1080@1920.0.1920.1080" timestamp="1582731621342" />
+    <state width="1204" height="298" key="GridCell.Tab.1.right" timestamp="1582731621342">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1204" height="298" key="GridCell.Tab.1.right/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1582729905151" />
+    <state width="1204" height="298" key="GridCell.Tab.1.right/0.0.1920.1032/1920.0.1920.1080@1920.0.1920.1080" timestamp="1582731621342" />
+    <state x="579" y="295" key="com.intellij.ide.util.TipDialog" timestamp="1590506334459">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="579" y="295" key="com.intellij.ide.util.TipDialog/0.0.1920.1032/1920.0.1680.1050@0.0.1920.1032" timestamp="1590506334459" />
+    <state x="2427" y="300" key="com.intellij.ide.util.TipDialog/0.0.1920.1032/1920.0.1680.1050@1920.0.1680.1050" timestamp="1585911355836" />
+    <state x="579" y="295" key="com.intellij.ide.util.TipDialog/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1584113014596" />
+    <state x="2499" y="309" key="com.intellij.ide.util.TipDialog/0.0.1920.1032/1920.0.1920.1080@1920.0.1920.1080" timestamp="1582882273605" />
+    <state x="0" y="0" width="991" height="938" key="dock-window-1" timestamp="1582816020483">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="0" y="0" width="991" height="938" key="dock-window-1/0.0.1920.1032/1920.0.1920.1080@1920.0.1920.1080" timestamp="1582816020483" />
+    <state x="2118" y="34" key="new project wizard" timestamp="1585917666303">
+      <screen x="1920" y="0" width="1680" height="1050" />
+    </state>
+    <state x="2118" y="34" key="new project wizard/0.0.1920.1032/1920.0.1680.1050@1920.0.1680.1050" timestamp="1585917666303" />
+    <state x="226" y="33" key="new project wizard/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1584113036864" />
+  </component>
+</project>
